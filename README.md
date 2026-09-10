@@ -1,15 +1,15 @@
-# Hi 👋, I'm Bhuvana S
+# Hi!, I'm Bhuvana S
 
-🎓 MCA Student  
-💻 Full-Stack Python Developer  
-🤖 Machine Learning Enthusiast  
+ MCA Student  
+ Full-Stack Python Developer  
+ Machine Learning Enthusiast  
 
 ---
 
 ##  About Me
-- 🌱 Currently learning Machine Learning & Web Development  
-- 💡 Interested in building real-world applications  
-- 🎯 Goal: To become a Software Developer  
+-  Currently learning Machine Learning & Web Development  
+-  Interested in building real-world applications  
+-  Goal: To become a Software Developer  
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 📂 Projects
+##  Projects
 - 🔹 Full-Stack ML Web App  
 - 🔹 Student Management System  
 - 🔹 To-Do List Web App  
